@@ -2,7 +2,7 @@
     <img alt="Logo" src="docs/icon.png" width="100" />
 </div>
 <h1 align="center">
-    Vibe Draw - Cursor for 3D Modeling
+    Arushi Draw - Cursor for 3D Modeling
 </h1>
 <p align="center">
    turn your roughest sketches into stunning 3D worlds by vibe drawing
@@ -76,6 +76,3 @@ Creativity is often constrained by technical skills or complex software. Vibe Dr
 
 Our goal is to empower people to freely express their imagination and bring their ideas effortlessly into 3D worlds.
 
-## License
-
-[AGPL](LICENSE)
